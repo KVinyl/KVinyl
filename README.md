@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Tech Elevator student based in Columbus, Ohio.
+I'm a Georgia Tech grad student based in Columbus, Ohio.
